@@ -51,7 +51,7 @@ This tap:
 5. Run the tap in sync mode
 
     ```bash
-    tap-closeio --config config.json --properties catalog.json
+    tap-closeio --config config.json --catalog catalog.json
     ```
 
 ## Event Logs
